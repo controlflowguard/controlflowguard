@@ -25,7 +25,7 @@
 ---
 
 ### 🔧 Projects & Work
-- 🛡️ **Ro-Guard V3** – A stealth modular anti-exploit system
+- 🛡️ **Infiltra** – A stealth modular anti-exploit system
 - 📦 **Celeste UI** – A polished, executor-safe Roblox UI library
 - 🤖 **Automation Tools** – Scripts for tipping, leaderboard tracking, remote monitoring, and more
 - 🐞 **HackerOne Reports** – Access control bypasses, API exposure, and client-side security holes in major platforms
