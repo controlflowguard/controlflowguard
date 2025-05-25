@@ -1,39 +1,62 @@
-<h1 align="center">Hey, I'm QG3 👋</h1>
-<p align="center">I build tools, break systems, and push the limits of scripting.</p>
+<h1 align="center">Hey, I'm QG3 👨‍💻</h1>
+<p align="center">Fullstack Developer • Ethical Hacker • Roblox Systems Architect • Infrastructure Architect</p>
 
 ---
 
-### 🧠 About Me
-- 💻 I'm a self-taught developer focused on Roblox automation, anti-cheat systems, and stealth UI libraries.
-- 🛡️ I’ve created exploit detection frameworks, remote analysis tools, and performance-based game optimizers.
-- 🔍 I also report vulnerabilities through [HackerOne](https://www.hackerone.com/) — primarily focused on Roblox infrastructure and access control flaws.
-- 🛠️ Currently building tools that help developers secure their games while maintaining performance and stealth.
+### 🚀 About Me
+
+I'm a fullstack developer who builds tools, platforms, and protection systems from the ground up. I specialize in high-performance Lua and JavaScript tooling, but I move seamlessly between backend, frontend, game scripting, and system-level logic.
+
+Over the past few years, I’ve created stealth UIs, anti-exploit frameworks, remote analysis tools, Discord integrations, and Roblox game mechanics optimized for both performance and security.
+
+Whether I’m engineering backend APIs, deploying frontend interfaces, or reverse engineering exploits, I focus on performance, polish, and precision.
 
 ---
 
-### 🧰 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua" />
-  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/-Roblox-black?style=flat-square&logo=roblox" />
+### 💼 What I Do
+
+- 🧠 Fullstack systems design — frontend, backend, databases, and automation
+- 🎮 Roblox game scripting, secure UI libraries, and client-server architecture
+- 🛡️ Anti-exploit toolkits — stealth, detection, patching, and remote monitoring
+- 🐞 Security research — HackerOne reports, bypass discovery, and sandbox evasion
+- 📊 Real-time analytics & dashboards with Node.js + REST APIs
+- ☁️ Infrastructure engineering for scalable scripts, APIs, and secure execution
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+`Lua` • `C++` • `C` • `JavaScript` • `Python` • `HTML/CSS` • `SQL`
+
+**Tools & Frameworks:**  
+`React` • `Node.js` • `Express` • `Roblox Studio` • `MongoDB` • `Firebase` • `Cloudflare Workers` • `TailwindCSS` • `Git`
+
+---
+
+### 📌 Featured Projects
+
+- 🔒 **Ro-Guard V3** – Robust anti-exploit framework w/ stealth patching & remote logging  
+- 🌌 **Celeste UI** – Executor-safe Roblox UI with modern design, drag support, and customization  
+- 🛠️ **Tip System** – In-game tipping UI for staff monetization via gamepasses & shirts  
+- 🤖 **Automation Tools** – Auto-purchasing, remote analytics, webhook alerts, and control panels  
+
+---
+
+### 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=controlflowguard&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=controlflowguard&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🔧 Projects & Work
-- 🛡️ **Infiltra** – A stealth modular anti-exploit system
-- 📦 **Celeste UI** – A polished, executor-safe Roblox UI library
-- 🤖 **Automation Tools** – Scripts for tipping, leaderboard tracking, remote monitoring, and more
-- 🐞 **HackerOne Reports** – Access control bypasses, API exposure, and client-side security holes in major platforms
+### 📬 Contact
 
----
-
-### 📬 Reach Me
 - 🎮 **Roblox**: [QG3](https://www.roblox.com/users/44948055/profile)
 - 💬 **Discord**: `qgthree`
 
 ---
+
+<p align="center"><i>Bridging scripting, infrastructure, and security — one project at a time.</i></p>
