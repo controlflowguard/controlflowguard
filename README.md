@@ -43,14 +43,6 @@ Whether I’m engineering backend APIs, deploying frontend interfaces, or revers
 
 ---
 
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=controlflowguard&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=controlflowguard&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📬 Contact
 
