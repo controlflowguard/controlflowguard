@@ -36,7 +36,7 @@ Whether I’m engineering backend APIs, deploying frontend interfaces, or revers
 
 ### 📌 Featured Projects
 
-- 🔒 **Ro-Guard V3** – Robust anti-exploit framework w/ stealth patching & remote logging  
+- 🔒 **Infilitra** – Robust anti-exploit framework w/ stealth patching & remote logging  
 - 🌌 **Celeste UI** – Executor-safe Roblox UI with modern design, drag support, and customization  
 - 🛠️ **Tip System** – In-game tipping UI for staff monetization via gamepasses & shirts  
 - 🤖 **Automation Tools** – Auto-purchasing, remote analytics, webhook alerts, and control panels  
